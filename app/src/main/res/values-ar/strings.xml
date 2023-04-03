@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_me">"اضغط هنا "</string>
+    <string name="what_is_my_input">ادخل اي قيمة</string>
+</resources>

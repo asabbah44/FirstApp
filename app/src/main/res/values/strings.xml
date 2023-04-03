@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comp438</string>
+    <string name="click_me">Click me</string>
+    <string name="what_is_my_input">What is my input</string>
+</resources>
